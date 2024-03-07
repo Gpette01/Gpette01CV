@@ -4,7 +4,7 @@
 - **Address:** Kalavryton 11, Nicosia, Kokkinotrimithia
 - **Phone:** +357 96492682
 - **Email:** gpette01@ucy.ac.cy
-- **GitHub (Online CV):** https://github.com/Gpette01/Gpette01CV/edit/main/README.md (Replace this text with the actual URL)
+- **GitHub (Online CV):** [https://github.com/Gpette01/Gpette01CV/edit/main/README.md](https://github.com/Gpette01/Gpette01CV/blob/main/README.md) (Replace this text with the actual URL)
 
 ## Objective
 A highly motivated UCY Computer Science undergraduate with a strong academic record, seeking an internship to apply theoretical knowledge in a practical environment. Aims to contribute effectively to projects and gain hands-on experience in the field of technology.
