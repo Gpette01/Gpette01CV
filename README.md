@@ -4,7 +4,7 @@
 - **Address:** Kalavryton 11, Nicosia, Kokkinotrimithia
 - **Phone:** +357 96492682
 - **Email:** gpette01@ucy.ac.cy
-- **GitHub (Online CV):** [https://github.com/Gpette01/Gpette01CV/edit/main/README.md](https://github.com/Gpette01/Gpette01CV/blob/main/README.md) (Replace this text with the actual URL)
+- **GitHub (Online CV):** https://github.com/Gpette01/Gpette01CV/edit/main/README.md
 
 ## Objective
 A highly motivated UCY Computer Science undergraduate with a strong academic record, seeking an internship to apply theoretical knowledge in a practical environment. Aims to contribute effectively to projects and gain hands-on experience in the field of technology.
@@ -68,10 +68,10 @@ September 2021 – Present (Expected Graduation: 2025)
   - **Description**: Collaborated on a team project to develop a comprehensive tool capable of extracting metadata from BMP images. The software also features functionality for converting images to grayscale, encrypting an image within another image, and encoding/decoding text messages to and from images. This project demonstrated teamwork, advanced data manipulation, and encryption techniques.
 
 - **Email Client Implementation**
-  - **Description**: Developed a program for sending, retrieving, and analyzing email messages over SMTP (Simple Mail Transfer Protocol) and IMAP (Internet Message Access Protocol version 4). This project was completed without the use of any pre-existing tools such as Microsoft Outlook or Mozilla Thunderbird, demonstrating a deep understanding of network protocols and client-server communication in C.
+  - **Description**: Developed a program for sending, retrieving, and analyzing email messages over local SMTP (Simple Mail Transfer Protocol) and local IMAP (Internet Message Access Protocol version 4). This project was completed without the use of any pre-existing tools such as Microsoft Outlook or Mozilla Thunderbird, demonstrating a deep understanding of network protocols and client-server communication in C.
   
  - **UCY Artificial Intelligent Shell (ucyaish)**
-    - **Description**: Implemented a custom shell in C, named UCY Artificial Intelligent Shell (ucyaish), which operates in two modes: (a) mimicking common shell behaviors, particularly bash, with limited functionalities (excluding programming structures and advanced features), and (b) allowing users to input queries in natural language. With the support of artificial intelligence services, the shell can process and provide results to natural language queries, showcasing the integration of AI technologies within command-line interfaces.
+    - **Description**: Implemented a custom shell in C, named UCY Artificial Intelligent Shell (ucyaish), which operates in two modes: (a) mimicking common shell behaviors, particularly bash, with limited functionalities (excluding programming structures and advanced features), and (b) allowing users to input queries in natural language. With the support of artificial intelligence services(ChatGPT), the shell can process and provide results to natural language queries, showcasing the integration of AI technologies within command-line interfaces.
   
 ### Python Projects
 
@@ -79,7 +79,7 @@ September 2021 – Present (Expected Graduation: 2025)
 
 - **Encryption and Decryption Algorithms**:
   - Implemented Caesar Cipher, Caesar Cipher with 2 Keys, and Transposition Cipher algorithms in Python for secure message encryption and decryption.
-  - Developed a brute-force attack script capable of decrypting messages encrypted with the Caesar Cipher, demonstrating an understanding of both cybersecurity principles and Python programming.
+  - Developed a brute-force attack script capable of decrypting messages encrypted with the previous mentioned algorithms(also supporting nested encryption via reccursion), demonstrating an understanding of both cybersecurity principles and Python programming.
   
 ### Multithreading and Concurrency Projects(Java and C)
   - **Pthread Library Exploration**
@@ -96,7 +96,7 @@ September 2021 – Present (Expected Graduation: 2025)
 
 ### Android Development Projects
 
-- **Location and WiFi Logger App**
+- **Location and WiFi Logger App**(Currently developing)
   - **Technologies Used**: Android SDK, SQLite
   - **Description**: Developed Android application designed to log location data and the count of available WiFi networks in the vicinity at specified time intervals. The app utilizes SQLite for efficient data storage and retrieval, providing insights into WiFi availability trends over time and space. This project showcases my skills in Android development, geolocation services, and local database management.
 
