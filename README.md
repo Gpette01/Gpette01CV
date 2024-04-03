@@ -1,7 +1,7 @@
 # George Pettemerides
 
 ## Contact Information
-- **Address:** Kalavryton 11, Nicosia, Kokkinotrimithia
+- **Address:** Private
 - **Phone:** +357 96492682
 - **Email:** gpette01@ucy.ac.cy
 - **GitHub (Online CV):** https://github.com/Gpette01/Gpette01CV/edit/main/README.md
