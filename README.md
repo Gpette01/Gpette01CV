@@ -96,9 +96,9 @@ September 2021 – Present (Expected Graduation: 2025)
 
 ### Android Development Projects
 
-- **Location and WiFi Logger App**(Currently developing)
+- [**Location and WiFi Logger App**](https://github.com/Gpette01/GeoWiFiDirect-App/tree/main)
   - **Technologies Used**: Android SDK, SQLite
-  - **Description**: Developed Android application designed to log location data and the count of available WiFi networks in the vicinity at specified time intervals. The app utilizes SQLite for efficient data storage and retrieval, providing insights into WiFi availability trends over time and space. This project showcases my skills in Android development, geolocation services, and local database management.
+  - **Description**: Developed Android application designed to log location data and the count of available WiFi networks in the vicinity at specified time intervals. Can share data with other devices via WiFi Direct and display data on a map using Google Map API. The app utilizes SQLite for efficient data storage and retrieval, providing insights into WiFi availability trends over time and space. This project showcases my skills in Android development, geolocation services, and local database management.
 
 ### Big Team Projects
 
