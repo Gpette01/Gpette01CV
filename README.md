@@ -82,7 +82,7 @@ September 2021 – Present (Expected Graduation: 2025)
   - Developed a brute-force attack script capable of decrypting messages encrypted with the previous mentioned algorithms(also supporting nested encryption via reccursion), demonstrating an understanding of both cybersecurity principles and Python programming.
 
 - [**Key Logger**](https://github.com/Gpette01/KeyLogger):
-  - Implements a basic key logger, the recorded key logs are send via a local socket to python server and stored in a file
+  - Implements a basic key logger, the recorded key logs are send via a local socket to local python server and stored in a file
   
 ### Multithreading and Concurrency Projects(Java and C)
   - **Pthread Library Exploration**
