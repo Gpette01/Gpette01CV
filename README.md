@@ -98,9 +98,9 @@ September 2021 – Present (Expected Graduation: 2025)
     - **Description**: Focused on mastering advanced process programming techniques, inter-process communication using TCP/IP sockets, and developing multithreaded applications in C. The project aimed at building a comprehensive system evaluated on its correctness and structure, providing an opportunity for team collaboration and system design. This experience deepened understanding of networked application development and concurrent programming challenges in system-level software engineering.
 
 ### Software Defined Radio(Hackrf)
-  - **gr-adsb-hackrf**
+  - [**gr-adsb-hackrf**](https://github.com/Gpette01/gr-adsb-hackrf)
     - **Description**: A modified version of gr-adsb that uses hackrf osmocom
-  - **gr-gsm-IMSI_Catcher-hachkrf**
+  - [**gr-gsm-IMSI_Catcher-hachkrf**](https://github.com/Gpette01/gr-gsm-IMSI_Catcher-hachkrf)
     - **Description**: A guide on how to use hackrf to capture IMSI numbers   
 
 ### Android Development Projects
